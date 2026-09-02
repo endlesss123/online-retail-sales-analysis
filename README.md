@@ -21,7 +21,7 @@ This project analyzes online retail sales using Python to identify revenue trend
 - Top product by revenue: **Regency Cakestand 3 Tier**
 
 ## Monthly Revenue
-![Monthly Revenue](Monthly-revenue.pg)
+![Monthly Revenue](Monthly-revenue.png)
 ## Business Recommendations
 
 - Keep top-performing products well stocked.
