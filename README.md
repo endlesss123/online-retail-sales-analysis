@@ -4,6 +4,10 @@
 
 This project analyzes online retail sales using Python to identify revenue trends, top products, and customer markets. The analysis provides business insights and recommendations based on the data.
 
+## Data Cleaning
+
+The dataset was cleaned by removing cancelled transactions and transactions with negative quantities. This resulted in **530,104 clean sales records** from the original **541,909 records**.
+
 ## Tools Used
 
 - Python
