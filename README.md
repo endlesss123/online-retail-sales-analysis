@@ -25,6 +25,10 @@ This project analyzes online retail sales using Python to identify revenue trend
 
 ## Top 10 Products by Revenue
 ![Top 10 Products by Revenue](top-products-revenue.png)
+
+## Top 10 Countries by Revenue
+
+![Top 10 Countries by Revenue](country-revenue.png)
 ## Business Recommendations
 
 - Keep top-performing products well stocked.
