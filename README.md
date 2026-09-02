@@ -8,6 +8,13 @@ This project analyzes online retail sales using Python to identify revenue trend
 
 The dataset was cleaned by removing cancelled transactions and transactions with negative quantities. This resulted in **530,104 clean sales records** from the original **541,909 records**.
 
+## Analysis Questions
+
+- How much revenue did the business generate?
+- Which products generated the most revenue?
+- Which months had the highest revenue?
+- Which countries generated the most revenue?
+
 ## Tools Used
 
 - Python
