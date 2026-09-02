@@ -20,6 +20,8 @@ This project analyzes online retail sales using Python to identify revenue trend
 - Largest market: **United Kingdom**
 - Top product by revenue: **Regency Cakestand 3 Tier**
 
+## Monthly Revenue
+![Monthly Revenue](Monthly-revenue.pg)
 ## Business Recommendations
 
 - Keep top-performing products well stocked.
