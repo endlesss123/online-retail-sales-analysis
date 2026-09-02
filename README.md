@@ -22,6 +22,9 @@ This project analyzes online retail sales using Python to identify revenue trend
 
 ## Monthly Revenue
 ![Monthly Revenue](monthly-revenue.png)
+
+## Top 10 Products by Revenue
+![Top 10 Products by Revenue](top-products-revenue.png)
 ## Business Recommendations
 
 - Keep top-performing products well stocked.
